@@ -1,0 +1,2 @@
+E:\Eclipse_Projects\2022_Goal_Automation_Test\inetBanking_V.1
+mvn clean install
